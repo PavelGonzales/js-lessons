@@ -1,3 +1,24 @@
+bmwName = "BMW";
+bmwColor = "black";
+bmwWheels = 4;
+bmwDoors = 2;
+bmwHp = 340;
+bmwIsStarted = false;
+
+mercedesName = "Mercedes";
+mercedesColor = "white";
+mercedesWheels = 4;
+mercedesDoors = 4;
+mercedesHp = 140;
+mercedesIsStarted = false;
+
+audiName = "Audi";
+audiColor = "blue";
+audiWheels = 4;
+audiDoors = 4;
+audiHp = 245;
+audiIsStarted = false;
+
 // Определяем объект
 // const car = new Object()
 const car = {}
